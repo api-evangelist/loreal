@@ -46,6 +46,8 @@ apis:
       - type: SDK
         url: https://modiface.com/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/loreal
   - type: Website
     url: https://www.loreal.com/
   - type: AboutUs

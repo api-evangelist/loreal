@@ -66,6 +66,9 @@ common:
     url: https://careers.loreal.com/
   - type: OpenInnovation
     url: https://www.loreal.com/en/articles/science-and-technology/open-innovation/
+  - type: DeveloperPortal
+    url: https://api.loreal.com/
+    description: Public developer portal (verified live 2026-05-22)
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

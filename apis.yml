@@ -43,7 +43,7 @@ apis:
         url: https://modiface.com/
       - type: ProductPage
         url: https://modiface.com/
-      - type: SDK
+      - type: SDKs
         url: https://modiface.com/
 common:
   - type: LinkedIn

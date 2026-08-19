@@ -33,7 +33,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/loreal/refs/heads/main/apis.yml
 created: '2026-05-05'
 modified: '2026-05-16'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: loreal:modiface-ar-virtual-try-on
     name: ModiFace AR Virtual Try-On SDK and API

@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "loreal",
+    "captured_at": "2026-10-11T191155",
+    "source_url": "https://api.loreal.com/",
+    "source_type": "DeveloperPortal",
+    "file": "loreal-2026-10-11T191155.png",
+    "bytes": 209683,
+    "capture": "playwright-local"
+  }
+]

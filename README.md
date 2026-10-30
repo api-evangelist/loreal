@@ -1,4 +1,4 @@
-# L'Oréal (loreal)
+# L'Oréal
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,37 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-L'Oréal is the world's largest cosmetics and beauty company, producing skincare, makeup, haircare, and fragrance products. The group operates a portfolio of over 35 brands, including Lancôme, Maybelline, Garnier, NYX Professional Makeup, Kérastase, La Roche-Posay, and Kiehl's, sold in over 150 countries. L'Oréal's primary developer surface is the ModiFace platform (a wholly owned subsidiary), which exposes an AR virtual try-on SDK and API for partner brands and retailers.
+L'Oréal is the world's largest cosmetics and beauty company, producing skincare, makeup, haircare, and fragrance products. The group operates a portfolio of over 35 brands, including Lancôme, Maybelline, Garnier, NYX Professional Makeup, Kérastase, La Roche-Posay, and Kiehl's, sold in over 150 countries. L'Oréal's primary developer surface is the ModiFace platform (a wholly owned subsidiary), which exposes an AR virtual try-on SDK and API for partner brands and retailers. L'Oréal Group itself does not operate a general-purpose corporate developer portal.
 
-**URL:** [https://www.loreal.com/](https://www.loreal.com/)
+**Areas:** Augmented Reality · Beauty · Beauty Tech · Consumer Products · Cosmetics · Personal Care
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=loreal-api-evangelist&utm_content=repo)
+## L'Oréal on APIs.io
 
-## Tags:
+Everything profiled for L'Oréal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/loreal/](https://apis.io/providers/loreal/)** — or go straight to one of the APIs or properties below.
 
- - Augmented Reality, Beauty, Beauty Tech, Consumer Products, Cosmetics, Personal Care
+### APIs (1)
 
-## APIs
+- [ModiFace AR Virtual Try-On SDK and API](https://apis.io/apis/loreal/modiface-ar-virtual-try-on/) — ModiFace, a L'Oréal company, provides an augmented reality virtual try-on platform for beauty brands and retailers. The platform offers a software…
 
-### ModiFace AR Virtual Try-On SDK and API
+### Published properties
 
-ModiFace, a L'Oréal company, provides an augmented reality virtual try-on platform for beauty brands and retailers. The platform offers a software development kit (SDK), embeddable miniprogram, and API endpoints for integrating product page virtual try-ons, standalone instant looks, and buildable makeup look experiences across web and mobile.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Documentation: https://modiface.com/
+#### Security (2)
 
-## Links
+Authentication, trust centre, and vulnerability disclosure.
 
-- Website: https://www.loreal.com/
-- About: https://www.loreal.com/en/group/
-- Brands: https://www.loreal.com/en/group/brands/
-- Beauty Tech: https://www.loreal.com/en/group/about-loreal/our-transformation/
-- Investor Relations: https://www.loreal-finance.com/
-- News: https://www.loreal.com/en/news/
-- Sustainability: https://www.loreal.com/en/commitments-and-responsibilities/
-- Careers: https://careers.loreal.com/
-- Open Innovation: https://www.loreal.com/en/articles/science-and-technology/open-innovation/
+- [Loreal Domain Security](https://apis.io/security/loreal/loreal-domain-security/)
+- [Loreal Vulnerability Disclosure](https://apis.io/security/loreal/loreal-vulnerability-disclosure/)
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-16
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.loreal.com/)
+- [Blog](https://www.loreal.com/en/news/)
+
+## API Evangelist rating
+
+**Kin Score 11.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/loreal/](https://apis.io/providers/loreal/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for L'Oréal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/loreal/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
